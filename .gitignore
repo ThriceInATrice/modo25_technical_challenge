@@ -1,0 +1,5 @@
+venv
+.pytest_cache
+part_2/__pycache__
+askbosco_client.cpython-311.pyc
+test_askbosco_client.cpython-311-pytest-8.3.4.pyc
